@@ -1,0 +1,8 @@
+.*
+!.gitignore
+!.travis.yml
+*.class
+
+**/target
+**/bin
+**/log
